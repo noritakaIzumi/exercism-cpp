@@ -10,4 +10,3 @@ cmake-build-debug
 /*/test
 /*/*
 !/*/*.cpp
-/*/*_test.cpp
