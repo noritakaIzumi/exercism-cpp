@@ -12,3 +12,4 @@ add_compile_definitions(EXERCISM_RUN_ALL_TESTS)
 # Projects
 add_subdirectory(hello-world)
 add_subdirectory(leap)
+add_subdirectory(reverse-string)
