@@ -1,1 +1,13 @@
+# editor configs
 /.idea
+/.vs
+
+# cmake
+cmake-build-debug
+
+# exercism
+/*/.exercism
+/*/test
+/*/*
+!/*/*.cpp
+/*/*_test.cpp
